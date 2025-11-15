@@ -28,3 +28,4 @@ Een platform waar HR-studenten studiematerialen kunnen delen. Met FastAPI backen
 - Complexere front-end state management (useContext, navigatie, etc.)
 
 ## Screenshots
+<img width="2879" height="1361" alt="Schermafbeelding 2025-11-15 143703" src="https://github.com/user-attachments/assets/0b48a9a4-da5c-49eb-8a6d-eeca58982244" />
